@@ -9,3 +9,5 @@ GCP general [link](https://console.cloud.google.com/marketplace/product/datadog-
 stop sending logs from VM
 
 sudo systemctl stop datadog-agent
+
+Creation of Service account from GCP for DD [here](https://docs.datadoghq.com/integrations/google_cloud_platform/#setup)
