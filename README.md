@@ -6,3 +6,6 @@ Connection of DataDog to different [GCP services](https://docs.datadoghq.com/int
 
 GCP general [link](https://console.cloud.google.com/marketplace/product/datadog-public/datadog?q=search&referrer=search&project=ari-dp-prt-uat)
 
+stop sending logs from VM
+
+sudo systemctl stop datadog-agent
