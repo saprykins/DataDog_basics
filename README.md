@@ -10,4 +10,6 @@ stop sending logs from VM
 
 sudo systemctl stop datadog-agent
 
-Creation of Service account from GCP for DD [here](https://docs.datadoghq.com/integrations/google_cloud_platform/#setup)
+Creation of Service account from GCP for DD [DD here](https://docs.datadoghq.com/integrations/google_cloud_platform/#setup)
+
+Send logs from Ggle to DD [Ggle link](https://cloud.google.com/architecture/partners/scenarios-for-exporting-cloud-logging-data-datadog)
